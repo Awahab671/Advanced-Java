@@ -1,0 +1,21 @@
+package com.collection.class28;
+
+public class Array {
+    public static void main(String[] args) {
+        int [] arr= {1,2,3,4};
+        for(int i = 0; i<arr.length; i++) {
+            int num = 4;
+            if(arr[i]==4){
+                continue;
+
+
+
+            }
+
+        }
+
+
+
+
+    }
+}
